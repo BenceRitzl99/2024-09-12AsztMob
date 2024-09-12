@@ -1,0 +1,17 @@
+#:Név:Dűlő:Termés (q):Betakarítás vége:
+1:rozs:Malomér:55:2020-07-12:
+2:kukorica:Varajt:140:2022-07-23:
+3:árpa:Hontoka:145:2022-07-24:
+4:búza:Bóvár:125:2022-07-29:
+5:búza:Tönkös:212:2022-07-30:
+6:búza:Csonkás:201:2022-07-31:
+7:rozs:Lápos:47:2022-08-03:
+8:repce:Sárosrét:138:2022-08-05:
+9:búza:Tuskós:270:2022-08-07:
+10:árpa:Nyomás:130:2022-08-08:
+11:repce:Falurétje:213:2022-08-10:
+12:búza:Ülés:340:2022-08-18:
+13:repce:Körtvélyes:219:2022-08-20:
+14:búza:Bükkös:197:2022-08-21:
+15:napraforgó:Vágás:224:2022-08-25:
+16:napraforgó:Dinnyés:340:2022-08-30:
